@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kavin Barath</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavin-barath&label=Profile%20views&color=0e75b6&style=flat" alt="kavin-barath" /> </p>
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Web based Projects.<br>🤝 I’m looking for help with Full Stack Development.<br>⚡ Fun fact Turning caffeine into code, one cup at a time ☕💻.
