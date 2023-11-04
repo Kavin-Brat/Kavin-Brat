@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OpenTurf.<br>👯 I’m looking to collaborate on Web based Projects.<br>🤝 I’m looking for help with Full Stack Development.<br>⚡ Fun fact Turning caffeine into code, one cup at a time ☕💻.
+👯 I’m looking to collaborate on Web based Projects.<br>🤝 I’m looking for help with Full Stack Development.<br>⚡ Fun fact Turning caffeine into code, one cup at a time ☕💻.
 
 
 ## 🌐 Socials:
